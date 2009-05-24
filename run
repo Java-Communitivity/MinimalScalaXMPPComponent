@@ -1,0 +1,3 @@
+cd dist
+scala -classpath  EchoScalaXmppComponent.jar org.communitivity.echoxmpp.Main
+cd ..

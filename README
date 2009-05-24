@@ -1,0 +1,9 @@
+README - MinimalScalaXMPPComponent
+
+This project demonstrates how to write an external XMPP component using the
+Adirondack and Shellack libraries.  It also serves as a template you can
+use to build you own component on. Recommended approach is to use github,
+fork the project and rename it to your name, and then make your changes.
+
+The github url for this project is:
+  http://github.com/Communitivity/MinimalScalaXMPPComponent/tree/master
